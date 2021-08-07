@@ -3,9 +3,9 @@
 The dataset chocolate.csv contains the relevant information of a number of chocolate bars, along with expert ratings as the ground truth.
 
 #### Columns description
-• Company (Maker-if known): name of the company (string).
-• Specific Bean Origin: the geographical origin for the chocolate bar (string).
-• REF: a value indicating when the review was entered in the database. A higher value indicates more recently entered (integer).
+- Company (Maker-if known): name of the company (string).
+- Specific Bean Origin: the geographical origin for the chocolate bar (string).
+- REF: a value indicating when the review was entered in the database. A higher value indicates more recently entered (integer).
 • Review Year: the year of the review published (integer).
 • Cocoa Percentage: cocoa percentage of the chocolate bar (string).
 • Company Location: the country of the manufacturer (string).
